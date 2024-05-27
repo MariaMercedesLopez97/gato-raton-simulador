@@ -1,1 +1,1 @@
-# gato-raton-simulador
+# gato-raton-simulador estrategia
